@@ -1,11 +1,9 @@
-/*
+package pat.konungrus;/*
  * Main.java
  *
  * Created on 2007-01-29
  *
  */
-
-package com.pat.konungrus;
 
 /**
  *
@@ -45,11 +43,12 @@ public class Main
 		
 		System.out.println(cardSet.toString());
 
-//		CardTown cTown = new CardTown("Kiev", 3);
-//		
-//		cTown.Build("Church", 1);
-//		cTown.BuildWall( 2, WallTypes.Paling );
-//		System.out.println(cTown);
+		CardTown cTown = new CardTown(1, "Kiev", 3);
+        System.out.println(cTown);
+
+		cTown.Build("Church", 1);
+//		cTown.BuildWall();
+		System.out.println(cTown);
 
 //		// Check events in game
 //		c = cardSet.Get(41);

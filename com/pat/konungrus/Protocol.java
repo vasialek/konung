@@ -1,11 +1,9 @@
-/*
+package pat.konungrus;/*
  * Protocol.java
  *
  * Created on Antradienis, 2007, Sausio 30
  *
  */
-
-package com.pat.konungrus;
 
 import java.util.ArrayList;
 

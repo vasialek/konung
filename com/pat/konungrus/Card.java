@@ -1,4 +1,4 @@
-/*
+package pat.konungrus;/*
  * Card.java
  *
  * Created on Pirmadienis, 2007, Sausio 29, 11.17
@@ -6,8 +6,6 @@
  * To change this template, choose Tools | Template Manager
  * and open the template in the editor.
  */
-
-package com.pat.konungrus;
 
 import java.util.ArrayList;
 //import org.omg.CORBA.Environment;

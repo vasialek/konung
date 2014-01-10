@@ -1,15 +1,9 @@
-/*
+package pat.konungrus;/*
  * Battle.java
  *
  * Created on February 3, 2007
  *
  */
-
-package com.pat.konungrus;
-
-import com.pat.konungrus.Card;
-
-import java.util.ArrayList;
 
 /**
  * Is we waiting for attacker or defender turn

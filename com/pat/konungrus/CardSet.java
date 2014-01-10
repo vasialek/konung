@@ -1,4 +1,4 @@
-/*
+package pat.konungrus;/*
  * CardSet.java
  *
  * Created on Pirmadienis, 2007, Sausio 29, 11.48
@@ -7,9 +7,6 @@
  * and open the template in the editor.
  */
 
-package com.pat.konungrus;
-
-import com.pat.konungrus.CardTypes;
 import java.util.Random;
 
 /**

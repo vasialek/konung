@@ -1,4 +1,4 @@
-/*
+package pat.konungrus;/*
  * Server.java
  *
  * Created on January 30, 2007, 6:25 PM
@@ -7,18 +7,13 @@
  * and open the template in the editor.
  */
 
-package com.pat.konungrus;
-
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.PrintWriter;
 import java.net.ServerSocket;
 import java.net.Socket;
-import java.net.SocketException;
 import java.util.ArrayList;
-
-import com.pat.konungrus.Battle;
 
 enum ServerState{ Stopped, Waiting, Game, Battle, BattleOver, CountDown };
 
